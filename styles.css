@@ -196,5 +196,6 @@ padding-top: 8px;
 .language__name {
     position: absolute;
     bottom: 0;
+    transform: scale(0);
 }
 
